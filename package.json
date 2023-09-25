@@ -49,7 +49,7 @@
     "pino-pretty": "^10.0.1",
     "prettier": "^3.0.0",
     "typescript": "~5.1",
-    "youch": "^3.2.2",
+    "youch": "^3.3.2",
     "youch-terminal": "^2.2.2"
   },
   "dependencies": {
